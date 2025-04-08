@@ -1,0 +1,161 @@
+{
+  "name": "Shakib Khan",
+  "about": "I'm a passionate developer with a focus on web and mobile development. I enjoy learning new technologies, creating innovative solutions, and exploring the intersection of AI and business. Currently, I'm working on personal projects to enhance my skills in JavaScript, Kotlin, and more. Always open to collaborating and learning from others. Let's build something awesome together!",
+  "image": "/images/profile.png",
+  "profession": "Web & App Developer",
+  "socials": {
+    "github": "https://github.com/shakibkhandev",
+    "linkedin": "https://www.linkedin.com/in/shakibkhandev/",
+    "x": "https://twitter.com/shakibkhandev",
+    "facebook": "https://www.facebook.com/shakibkhandev",
+    "blogs": "https://shakibkhandev.hashnode.dev/",
+    "email": "mdshakibkhan.dev@gmail.com"
+  },
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Kotlin",
+    "Java",
+    "Python",
+    "SQL",
+    "Git",
+    "Docker"
+  ],
+  "education": [
+    {
+      "degree": "Secondary School Certificate",
+      "institution": "Sylhet Govt. Pilot High School",
+      "year": "2022 - 2024"
+    },
+    {
+      "degree": "Higher Secondary Certificate",
+      "institution": "MC College",
+      "year": "2024 - 2026"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Filmflare",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Filmflare-Movie-Web-App/refs/heads/main/assets/01.png",
+      "timeline": "Jan 2025 - Feb 2025",
+      "details": "Filmflare is a movie discovery web application built with Next.js and TypeScript. It allows users to explore trending movies, search for their favorites, and view detailed information about each film.",
+      "techStacks": ["Next.js", "TypeScript", "TMDB", "Swiper"],
+      "url": "https://github.com/shakibkhandev/Filmflare-Movie-Web-App"
+    },
+    {
+      "name": "Spaceship",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Spaceship-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "Jan 2025 - Feb 2025",
+      "details": "Spaceship is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://spaceshipweb.netlify.app/"
+    },
+    {
+      "name": "Retro Arcade",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Retro-Arcade-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "Jan 2025 - Feb 2025",
+      "details": "Retro Arcade is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://retroarcadeweb.netlify.app/"
+    },
+    {
+      "name": "NexTech",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/NexTech-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "Jan 2025 - Feb 2025",
+      "details": "NexTech is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://nextechweb.netlify.app/"
+    },
+    {
+      "name": "Gamer Hub",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/GamerHub-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "Jan 2025 - Feb 2025",
+      "details": "Gamer Hub is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://gamerhubweb.netlify.app/"
+    },
+    {
+      "name": "Fishology",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Fishology-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "Jan 2025 - Feb 2025",
+      "details": "Fishology is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://fishologyweb.netlify.app/"
+    },
+    {
+      "name": "Extreose",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Extreose-Static-Site/refs/heads/main/assets/01.jpg",
+      "timeline": "February 2025 - March 2025",
+      "details": "Extreose is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://extreoseweb.netlify.app/"
+    },
+    {
+      "name": "Crafty",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Crafty-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "February 2025 - March 2025",
+      "details": "Crafty is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://craftyweb3.netlify.app/"
+    },
+    {
+      "name": "Cosmic Chronicles",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Cosmic-Chronicles-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "February 2025 - March 2025",
+      "details": "Cosmic Chronicles is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://cosmicchroniclesweb.netlify.app/"
+    },
+    {
+      "name": "Boheina",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Boheina-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "February 2025 - March 2025",
+      "details": "Boheina is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://boheina.netlify.app/"
+    },
+    {
+      "name": "AutoSpa Elite",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/AutoSpa-Elite-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "February 2025 - March 2025",
+      "details": "AutoSpa Elite is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://autospaelite.netlify.app/"
+    },
+    {
+      "name": "Adventure Gear",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Adventure-Gear-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "February 2025 - March 2025",
+      "details": "Adventure Gear is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://adventuregear.netlify.app/"
+    },
+    {
+      "name": "FioLabs",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/FioLabs-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "February 2025 - March 2025",
+      "details": "FioLabs is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://fiolabs.netlify.app/"
+    },
+    {
+      "name": "True Fitness",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/TrueFitness-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "February 2025 - March 2025",
+      "details": "True Fitness is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://true-fitness.netlify.app/"
+    },
+    {
+      "name": "Pet Grooming Store",
+      "image": "https://raw.githubusercontent.com/shakibkhandev/Pet-Grooming-Store-Static-Site/refs/heads/main/assets/01.png",
+      "timeline": "February 2025 - March 2025",
+      "details": "Pet Grooming Store is a static website built with HTML, CSS, and JavaScript. It features a modern design and provides information about the app.",
+      "techStacks": ["HTML", "CSS", "JS"],
+      "url": "https://petgroomingstore.netlify.app/"
+    }
+  ]
+}

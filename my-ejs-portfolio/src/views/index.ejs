@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/styles.css" />
+
+    <!-- Link Swiper's CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <main>
+        <section class="hero-section">
+          <div class="content">
+            <div class="intro-text">
+              <span class="greeting">Hello, I'm</span>
+              <h1><%= name %> <span class="wave">👋</span></h1>
+              <p class="profession"><%= profession %></p>
+            </div>
+            <div class="buttons">
+              <a href="#contact" class="btn primary">Contact Me</a>
+              <a href="#projects" class="btn secondary">View Work</a>
+            </div>
+          </div>
+          <div class="profile-wrapper">
+            <div class="profile-image">
+              <img src="<%= image %>" alt="<%= name %>'s Profile" />
+            </div>
+          </div>
+        </section>
+
+        <section id="about" class="about-section">
+          <h2>About</h2>
+          <p><%= about %></p>
+        </section>
+
+        <section id="skills" class="skills-section">
+          <div class="skills-header">
+            <span class="skills-badge">Skills</span>
+            <h2 class="skills-title">Technical Expertise</h2>
+            <p class="skills-description">Technologies and tools I work with</p>
+          </div>
+          <div class="skills-container">
+            <% skills.forEach(function(skill) { %>
+            <div class="skill-item">
+              <span class="skill-name"><%= skill %></span>
+            </div>
+            <% }); %>
+          </div>
+        </section>
+
+        <section id="education" class="education-section">
+          <div class="education-header">
+            <span class="education-badge">Education</span>
+            <h2 class="education-title">Academic Journey</h2>
+            <p class="education-description">
+              My educational background and qualifications
+            </p>
+          </div>
+          <div class="education-container">
+            <% education.forEach(function(edu) { %>
+            <div class="education-item">
+              <div class="education-icon">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M22 10v6M2 10l10-5 10 5-10 5z"></path>
+                  <path d="M6 12v5c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2v-5"></path>
+                </svg>
+              </div>
+              <div class="education-content">
+                <h3 class="education-degree"><%= edu.degree %></h3>
+                <p class="education-institution"><%= edu.institution %></p>
+                <p class="education-year"><%= edu.year %></p>
+              </div>
+            </div>
+            <% }); %>
+          </div>
+        </section>
+
+        <div class="projects-section" id="projects">
+          <div class="projects-header">
+            <span class="projects-badge">My Projects</span>
+            <h2 class="projects-title">Check out my latest work</h2>
+            <p class="projects-description">
+              <% if (projects && projects.length > 0) { %> I've worked on a
+              variety of projects, from simple websites to complex web
+              applications. <% } else { %> No projects found yet <% } %>
+            </p>
+          </div>
+          <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+              <% projects.forEach(function(project) { %>
+              <div class="swiper-slide">
+                <div class="project-card">
+                  <div class="project-image">
+                    <img src="<%= project.image %>" alt="<%= project.name %>" />
+                  </div>
+                  <div class="project-content">
+                    <h3 class="project-title"><%= project.name %></h3>
+                    <p class="project-timeline"><%= project.timeline %></p>
+                    <p class="project-details"><%= project.details %></p>
+                    <div class="project-tech-stacks">
+                      <% project.techStacks.forEach(function(tech) { %>
+                      <span class="tech-stack"><%= tech %></span>
+                      <% }); %>
+                    </div>
+                    <a
+                      href="<%= project.url %>"
+                      target="_blank"
+                      class="project-link"
+                      title="View Project"
+                    >
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <path
+                          d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"
+                        />
+                        <path
+                          d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"
+                        />
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <% }); %>
+            </div>
+          </div>
+        </div>
+
+        <section id="contact" class="contact-section">
+          <h2>Get in Touch</h2>
+          <div class="contact-container">
+            <div class="contact-info">
+              <div class="contact-item">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+                  ></path>
+                  <polyline points="22,6 12,13 2,6"></polyline>
+                </svg>
+                <a href="mailto:<%= socials.email %>" class="contact-link"
+                  ><%= socials.email %></a
+                >
+              </div>
+              <div class="contact-item">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M4 4l11.733 16h4.267l-11.733-16z"></path>
+                  <path d="M4 20l6.768-6.768"></path>
+                  <path d="M19.5 4h-4.267l-11.733 16h4.267l11.733-16z"></path>
+                </svg>
+                <a href="<%= socials.x %>" target="_blank" class="contact-link"
+                  >Follow me on X</a
+                >
+              </div>
+            </div>
+            <div class="contact-message">
+              <p>
+                Feel free to reach out to me for any opportunities,
+                collaborations, or just to say hello! I'm always open to
+                discussing new projects and ideas.
+              </p>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <!-- Floating Bottom Navigation Bar -->
+    <nav class="floating-nav">
+      <!-- Home Link -->
+      <div class="nav-item-wrapper">
+        <a href="/" class="nav-item active">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+            <polyline points="9 22 9 12 15 12 15 22" />
+          </svg>
+        </a>
+      </div>
+
+      <!-- Blogs Link -->
+      <div class="nav-item-wrapper">
+        <a href="<%= socials.blogs %>" target="_blank" class="nav-item">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" />
+            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
+          </svg>
+        </a>
+      </div>
+
+      <!-- Projects Link -->
+      <div class="nav-item-wrapper">
+        <a href="<%= socials.blogs %>" target="_blank" class="nav-item">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path d="M4 4l11.733 16h4.267l-11.733-16z" />
+            <path d="M4 20l6.768-6.768" />
+            <path d="M19.5 4h-4.267l-11.733 16h4.267l11.733-16z" />
+          </svg>
+        </a>
+      </div>
+
+      <!-- GitHub Link -->
+      <div class="nav-item-wrapper">
+        <a href="<%= socials.github %>" target="_blank" class="nav-item">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path
+              d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"
+            />
+          </svg>
+        </a>
+      </div>
+
+      <!-- LinkedIn Link -->
+      <div class="nav-item-wrapper">
+        <a href="<%= socials.linkedin %>" target="_blank" class="nav-item">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path
+              d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"
+            />
+            <rect width="4" height="12" x="2" y="9" />
+            <circle cx="4" cy="4" r="2" />
+          </svg>
+        </a>
+      </div>
+
+      <!-- Theme Toggle -->
+      <div class="nav-item-wrapper">
+        <button class="nav-item theme-toggle">
+          <svg
+            class="sun-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <circle cx="12" cy="12" r="4" />
+            <path
+              d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"
+            />
+          </svg>
+          <svg
+            class="moon-icon hidden"
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z" />
+          </svg>
+        </button>
+      </div>
+    </nav>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <script>
+      var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 1,
+        spaceBetween: 30,
+        loop: true,
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 1,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 1,
+            spaceBetween: 40,
+          },
+        },
+      });
+
+      // Theme toggle functionality
+      const themeToggle = document.querySelector(".theme-toggle");
+      const html = document.documentElement;
+
+      // Check for saved theme preference or use system preference
+      const savedTheme = localStorage.getItem("theme");
+      if (savedTheme) {
+        html.setAttribute("data-theme", savedTheme);
+      } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        html.setAttribute("data-theme", "dark");
+      } else {
+        html.setAttribute("data-theme", "light");
+      }
+
+      themeToggle.addEventListener("click", () => {
+        const currentTheme = html.getAttribute("data-theme");
+        const newTheme = currentTheme === "light" ? "dark" : "light";
+
+        html.setAttribute("data-theme", newTheme);
+        localStorage.setItem("theme", newTheme);
+      });
+
+      // Active nav item functionality
+      const navItems = document.querySelectorAll(".nav-item");
+      navItems.forEach((item) => {
+        if (!(item instanceof HTMLButtonElement)) {
+          item.addEventListener("click", () => {
+            navItems.forEach((nav) => nav.classList.remove("active"));
+            item.classList.add("active");
+          });
+        }
+      });
+    </script>
+  </body>
+</html>
