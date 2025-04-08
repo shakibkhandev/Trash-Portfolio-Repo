@@ -1,0 +1,509 @@
+[06 Apr, 2025 - 06:37:15:3715] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:37:30:3730] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:38:01:381] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:38:27:3827] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:42:38:4238] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:47:10:4710] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:49:38:4938] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:49:43:4943] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:49:45:4945] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:49:53:4953] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:49:54:4954] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:55:26:5526] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 06:57:09:579] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:45:30:4530] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:48:09:489] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:48:22:4822] [31merror[39m: [31mCannot destructure property 'username' of 'req.body' as it is undefined.[39m
+[06 Apr, 2025 - 07:48:54:4854] [31merror[39m: [31mCannot destructure property 'username' of 'req.body' as it is undefined.[39m
+[06 Apr, 2025 - 07:48:55:4855] [31merror[39m: [31mCannot destructure property 'username' of 'req.body' as it is undefined.[39m
+[06 Apr, 2025 - 07:49:07:497] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:49:18:4918] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:49:19:4919] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:49:25:4925] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:49:30:4930] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:49:34:4934] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:49:36:4936] [31merror[39m: [31mNo Data found. Username and password are required[39m
+[06 Apr, 2025 - 07:49:40:4940] [31merror[39m: [31mNo Data found. Username and password are required[39m
+[06 Apr, 2025 - 07:49:58:4958] [31merror[39m: [31mUsername and password are required[39m
+[06 Apr, 2025 - 07:50:12:5012] [31merror[39m: [31mInvalid username or password[39m
+[06 Apr, 2025 - 07:50:20:5020] [31merror[39m: [31mNo Data found. Username and password are required[39m
+[06 Apr, 2025 - 07:50:39:5039] [31merror[39m: [31mUsername and password are required[39m
+[06 Apr, 2025 - 07:51:04:514] [31merror[39m: [31mInvalid username or password[39m
+[06 Apr, 2025 - 07:51:56:5156] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:52:01:521] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:52:02:522] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:52:13:5213] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:54:24:5424] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:54:30:5430] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 07:56:47:5647] [31merror[39m: [31mAll fields are required[39m
+[06 Apr, 2025 - 07:58:06:586] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 08:03:34:334] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 08:04:27:427] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.workExperience.delete()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\works.controllers.js:50:73[39m
+
+[31m  47 }));[39m
+[31m  48 exports.deleteWorkExperience = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m  49     const workExperienceId = req.params.id;[39m
+[31m→ 50     const workExperience = yield database_1.prisma.workExperience.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+[06 Apr, 2025 - 08:05:11:511] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.workExperience.delete()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\works.controllers.js:50:73[39m
+
+[31m  47 }));[39m
+[31m  48 exports.deleteWorkExperience = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m  49     const workExperienceId = req.params.id;[39m
+[31m→ 50     const workExperience = yield database_1.prisma.workExperience.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+[06 Apr, 2025 - 08:05:27:527] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:05:35:535] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:05:36:536] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:05:39:539] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:05:50:550] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:05:52:552] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:05:54:554] [31merror[39m: [31mWork experience not found[39m
+[06 Apr, 2025 - 08:06:58:658] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.workExperience.create()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\works.controllers.js:72:67[39m
+
+[31m  69 if (portfolio.length < 1) {[39m
+[31m  70     throw new ApiError_1.ApiError(404, "Portfolio not found");[39m
+[31m  71 }[39m
+[31m→ 72 const workExperience = yield database_1.prisma.workExperience.create({[39m
+[31m       data: {[39m
+[31m         companyName: "Port Elizabethchester",[39m
+[31m         position: "National Factors Executive",[39m
+[31m         startDate: "Thu Aug 01 2024 07:00:25 GMT+0600 (Bangladesh Standard Time)",[39m
+[31m                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[39m
+[31m         endDate: "2024-09-30T00:00:00.000Z",[39m
+[31m         portfolioId: "cm94zsahc0000s0dk0vmn04ip"[39m
+[31m       }[39m
+[31m     })[39m
+
+[31mInvalid value for argument `startDate`: input contains invalid characters. Expected ISO-8601 DateTime.[39m
+[06 Apr, 2025 - 08:10:28:1028] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.workExperience.update()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\works.controllers.js:33:67[39m
+
+[31m  30 }));[39m
+[31m  31 exports.updateWorkExperience = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m  32     const workExperienceId = req.params.id;[39m
+[31m→ 33     const workExperience = yield database_1.prisma.workExperience.update([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to update not found.[39m
+[06 Apr, 2025 - 08:10:39:1039] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:10:42:1042] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:10:49:1049] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:10:49:1049] [31merror[39m: [31mWork experience not found[39m
+[06 Apr, 2025 - 08:11:24:1124] [31merror[39m: [31mWork experience not found[39m
+[06 Apr, 2025 - 08:13:24:1324] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 08:14:13:1413] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.skill.create()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:36:49[39m
+
+[31m  33 if (portfolio.length < 1) {[39m
+[31m  34     throw new ApiError_1.ApiError(404, "Portfolio not found");[39m
+[31m  35 }[39m
+[31m→ 36 const skill = yield database_1.prisma.skill.create([39m
+[31mUnique constraint failed on the fields: (`label`)[39m
+[06 Apr, 2025 - 08:14:27:1427] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:14:29:1429] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:14:31:1431] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:14:32:1432] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:14:33:1433] [31merror[39m: [31mSkill already exists[39m
+[06 Apr, 2025 - 08:14:50:1450] [31merror[39m: [31mSkill already exists[39m
+[06 Apr, 2025 - 08:16:01:161] [31merror[39m: [31mSkill already exists[39m
+[06 Apr, 2025 - 08:16:10:1610] [31merror[39m: [31mSkill already exists[39m
+[06 Apr, 2025 - 08:17:57:1757] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.skill.delete()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:72:55[39m
+
+[31m  69 }));[39m
+[31m  70 exports.deleteSkill = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m  71     const skillId = req.params.id;[39m
+[31m→ 72     const skill = yield database_1.prisma.skill.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+[06 Apr, 2025 - 08:18:08:188] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:18:09:189] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:18:11:1811] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:18:13:1813] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:18:14:1814] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:18:15:1815] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:18:20:1820] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:18:21:1821] [31merror[39m: [31mSkill not found[39m
+[06 Apr, 2025 - 08:20:58:2058] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:21:03:213] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:22:03:223] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 08:27:18:2718] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:27:21:2721] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:27:23:2723] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:27:28:2728] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:27:34:2734] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:27:45:2745] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:27:47:2747] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:29:30:2930] [31merror[39m: [31mEducation not found[39m
+[06 Apr, 2025 - 08:33:10:3310] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 08:35:32:3532] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:35:46:3546] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:35:51:3551] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:36:02:362] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:36:06:366] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:36:07:367] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:36:08:368] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:36:10:3610] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:36:20:3620] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:36:21:3621] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:36:38:3638] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:37:31:3731] [31merror[39m: [31mProject not found[39m
+[06 Apr, 2025 - 08:39:47:3947] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:39:50:3950] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:00:410] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:00:410] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:08:418] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:09:419] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:27:4127] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:32:4132] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:41:4141] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:43:4143] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:41:59:4159] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:42:19:4219] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:42:22:4222] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:42:28:4228] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:42:32:4232] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:45:27:4527] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 08:46:42:4642] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:46:43:4643] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:46:57:4657] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:47:05:475] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:47:14:4714] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 08:47:20:4720] [31merror[39m: [31mNewsletter not found[39m
+[06 Apr, 2025 - 08:48:15:4815] [31merror[39m: [31mNewsletter not found[39m
+[06 Apr, 2025 - 08:48:50:4850] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:10:18:1018] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:11:10:1110] [31merror[39m: [31mjwt expired[39m
+[06 Apr, 2025 - 09:11:35:1135] [31merror[39m: [31mjwt expired[39m
+[06 Apr, 2025 - 09:12:28:1228] [31merror[39m: [31mjwt expired[39m
+[06 Apr, 2025 - 09:13:21:1321] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:13:24:1324] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:13:27:1327] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 09:13:37:1337] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:13:40:1340] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:13:45:1345] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:13:49:1349] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:13:57:1357] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:14:00:140] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:14:03:143] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:14:07:147] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[06 Apr, 2025 - 09:14:33:1433] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[06 Apr, 2025 - 09:15:16:1516] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:15:21:1521] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:15:31:1531] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:15:33:1533] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:15:46:1546] [31merror[39m: [31mCannot read properties of undefined (reading 'isAdmin')[39m
+[06 Apr, 2025 - 09:16:04:164] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:16:08:168] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:16:11:1611] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:17:02:172] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:17:35:1735] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:17:48:1748] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:17:49:1749] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:19:21:1921] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:19:26:1926] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:19:30:1930] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:22:15:2215] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:22:24:2224] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:22:29:2229] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:22:33:2233] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:23:03:233] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:23:06:236] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:23:26:2326] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:23:30:2330] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:23:42:2342] [31merror[39m: [31mTag already exists[39m
+[06 Apr, 2025 - 09:24:11:2411] [31merror[39m: [31mTag already exists[39m
+[06 Apr, 2025 - 09:24:23:2423] [31merror[39m: [31mTag already exists[39m
+[06 Apr, 2025 - 09:24:38:2438] [31merror[39m: [31mTag already exists[39m
+[06 Apr, 2025 - 09:25:07:257] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:27:03:273] [31merror[39m: [31mTag already exists[39m
+[06 Apr, 2025 - 09:27:19:2719] [31merror[39m: [31mTag already exists[39m
+[06 Apr, 2025 - 09:27:42:2742] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 09:28:06:286] [31merror[39m: [31mCannot read properties of undefined (reading 'isAdmin')[39m
+[06 Apr, 2025 - 09:28:18:2818] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:28:20:2820] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:28:21:2821] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:29:16:2916] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 09:29:22:2922] [31merror[39m: [31mCannot read properties of undefined (reading 'isAdmin')[39m
+[06 Apr, 2025 - 09:29:30:2930] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:29:32:2932] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:29:43:2943] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:29:44:2944] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:29:48:2948] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:29:54:2954] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:29:59:2959] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:30:02:302] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:30:05:305] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:30:54:3054] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.tag.delete()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\blogs.controllers.js:441:39[39m
+
+[31m  438 if (!req.params.id) {[39m
+[31m  439     throw new ApiError_1.ApiError(400, "Tag ID is required");[39m
+[31m  440 }[39m
+[31m→ 441 yield database_1.prisma.tag.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+[06 Apr, 2025 - 09:31:03:313] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:31:06:316] [31merror[39m: [31mTag not found[39m
+[06 Apr, 2025 - 09:31:17:3117] [31merror[39m: [31mTag not found[39m
+[06 Apr, 2025 - 09:31:25:3125] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.tag.update()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\blogs.controllers.js:423:45[39m
+
+[31m  420 if (!label) {[39m
+[31m  421     throw new ApiError_1.ApiError(400, "Label is required");[39m
+[31m  422 }[39m
+[31m→ 423 const tag = yield database_1.prisma.tag.update([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to update not found.[39m
+[06 Apr, 2025 - 09:31:34:3134] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:31:37:3137] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:31:42:3142] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:31:44:3144] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:31:45:3145] [31merror[39m: [31mTag not found[39m
+[06 Apr, 2025 - 09:36:25:3625] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:38:37:3837] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:38:38:3838] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:38:43:3843] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:42:01:421] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:42:05:425] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:42:08:428] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:42:24:4224] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:42:29:4229] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:42:31:4231] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:42:38:4238] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:42:40:4240] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:43:12:4312] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:43:17:4317] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:43:21:4321] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:48:22:4822] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:49:31:4931] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:51:15:5115] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:51:27:5127] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:52:06:526] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:52:45:5245] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:52:57:5257] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:53:04:534] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:53:13:5313] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:53:21:5321] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:53:41:5341] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:54:22:5422] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:54:38:5438] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:55:08:558] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:55:14:5514] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 09:55:35:5535] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 10:15:15:1515] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[06 Apr, 2025 - 10:16:41:1641] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 10:16:42:1642] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 10:20:44:2044] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 22:05:43:543] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 22:07:43:743] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.blog.findFirst()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\blogs.controllers.js:307:47[39m
+
+[31m  304 const limit = parseInt(req.query.limit) || 10;[39m
+[31m  305 const skip = (page - 1) * limit;[39m
+[31m  306 // Fetch current blog[39m
+[31m→ 307 const blog = yield database_1.prisma.blog.findFirst([39m
+[31mCan't reach database server at `localhost:6432`[39m
+
+[31mPlease make sure your database server is running at `localhost:6432`.[39m
+[06 Apr, 2025 - 22:09:10:910] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[06 Apr, 2025 - 22:12:11:1211] [31merror[39m: [31mTag not found[39m
+[06 Apr, 2025 - 22:14:22:1422] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[06 Apr, 2025 - 22:30:42:3042] [31merror[39m: [31mUnauthorized[39m
+[06 Apr, 2025 - 22:58:56:5856] [31merror[39m: [31mPortfolio not found[39m
+[06 Apr, 2025 - 23:00:02:02] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.project.create()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\projects.controllers.js:42:53[39m
+
+[31m  39 if (portfolio.length < 1) {[39m
+[31m  40     throw new ApiError_1.ApiError(404, "Portfolio not found");[39m
+[31m  41 }[39m
+[31m→ 42 const project = yield database_1.prisma.project.create([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Expected 1 records to be connected, found only 0.[39m
+[06 Apr, 2025 - 23:15:57:1557] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 12:23:47:2347] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 15:38:18:3818] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 16:49:57:4957] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 19:08:26:826] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 19:08:26:826] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 19:26:33:2633] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:26:33:2633] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:26:36:2636] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:27:07:277] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:27:14:2714] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:27:31:2731] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 19:33:16:3316] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:33:48:3348] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:34:08:348] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:34:08:348] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:34:19:3419] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:40:17:4017] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 19:40:17:4017] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 20:02:13:213] [31merror[39m: [31mInvalid username or password[39m
+[07 Apr, 2025 - 21:09:28:928] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 21:10:16:1016] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 21:10:16:1016] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 21:11:11:1111] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.portfolio.findMany()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:18:57[39m
+
+[31m  15 const ApiResponse_1 = require("../utils/ApiResponse");[39m
+[31m  16 const asyncHandler_1 = require("../utils/asyncHandler");[39m
+[31m  17 exports.getSkills = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m→ 18     const portfolio = yield database_1.prisma.portfolio.findMany([39m
+[31mCan't reach database server at `localhost:6432`[39m
+
+[31mPlease make sure your database server is running at `localhost:6432`.[39m
+[07 Apr, 2025 - 21:11:15:1115] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.portfolio.findMany()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:18:57[39m
+
+[31m  15 const ApiResponse_1 = require("../utils/ApiResponse");[39m
+[31m  16 const asyncHandler_1 = require("../utils/asyncHandler");[39m
+[31m  17 exports.getSkills = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m→ 18     const portfolio = yield database_1.prisma.portfolio.findMany([39m
+[31mCan't reach database server at `localhost:6432`[39m
+
+[31mPlease make sure your database server is running at `localhost:6432`.[39m
+[07 Apr, 2025 - 21:11:15:1115] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.portfolio.findMany()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\education.controllers.js:18:57[39m
+
+[31m  15 const ApiResponse_1 = require("../utils/ApiResponse");[39m
+[31m  16 const asyncHandler_1 = require("../utils/asyncHandler");[39m
+[31m  17 exports.getEducations = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m→ 18     const portfolio = yield database_1.prisma.portfolio.findMany([39m
+[31mCan't reach database server at `localhost:6432`[39m
+
+[31mPlease make sure your database server is running at `localhost:6432`.[39m
+[07 Apr, 2025 - 21:11:19:1119] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.portfolio.findMany()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\education.controllers.js:18:57[39m
+
+[31m  15 const ApiResponse_1 = require("../utils/ApiResponse");[39m
+[31m  16 const asyncHandler_1 = require("../utils/asyncHandler");[39m
+[31m  17 exports.getEducations = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m→ 18     const portfolio = yield database_1.prisma.portfolio.findMany([39m
+[31mCan't reach database server at `localhost:6432`[39m
+
+[31mPlease make sure your database server is running at `localhost:6432`.[39m
+[07 Apr, 2025 - 21:11:19:1119] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.portfolio.findMany()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:18:57[39m
+
+[31m  15 const ApiResponse_1 = require("../utils/ApiResponse");[39m
+[31m  16 const asyncHandler_1 = require("../utils/asyncHandler");[39m
+[31m  17 exports.getSkills = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m→ 18     const portfolio = yield database_1.prisma.portfolio.findMany([39m
+[31mCan't reach database server at `localhost:6432`[39m
+
+[31mPlease make sure your database server is running at `localhost:6432`.[39m
+[07 Apr, 2025 - 21:11:23:1123] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.portfolio.findMany()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:18:57[39m
+
+[31m  15 const ApiResponse_1 = require("../utils/ApiResponse");[39m
+[31m  16 const asyncHandler_1 = require("../utils/asyncHandler");[39m
+[31m  17 exports.getSkills = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m→ 18     const portfolio = yield database_1.prisma.portfolio.findMany([39m
+[31mCan't reach database server at `localhost:6432`[39m
+
+[31mPlease make sure your database server is running at `localhost:6432`.[39m
+[07 Apr, 2025 - 21:11:37:1137] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 21:11:44:1144] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.portfolio.findMany()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:18:57[39m
+
+[31m  15 const ApiResponse_1 = require("../utils/ApiResponse");[39m
+[31m  16 const asyncHandler_1 = require("../utils/asyncHandler");[39m
+[31m  17 exports.getSkills = (0, asyncHandler_1.asyncHandler)((req, res) => __awaiter(void 0, void 0, void 0, function* () {[39m
+[31m→ 18     const portfolio = yield database_1.prisma.portfolio.findMany([39m
+[31mCan't reach database server at `localhost:6432`[39m
+
+[31mPlease make sure your database server is running at `localhost:6432`.[39m
+[07 Apr, 2025 - 21:12:35:1235] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 21:14:10:1410] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 21:18:48:1848] [31merror[39m: [31mSkill already exists[39m
+[07 Apr, 2025 - 21:19:14:1914] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.skill.create()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:44:49[39m
+
+[31m  41 if (existSkill) {[39m
+[31m  42     throw new ApiError_1.ApiError(400, "Skill already exists");[39m
+[31m  43 }[39m
+[31m→ 44 const skill = yield database_1.prisma.skill.create([39m
+[31mUnique constraint failed on the fields: (`label`)[39m
+[07 Apr, 2025 - 21:20:13:2013] [31merror[39m: [31mSkill already exists[39m
+[07 Apr, 2025 - 21:20:15:2015] [31merror[39m: [31mUnauthorized[39m
+[07 Apr, 2025 - 21:21:04:214] [31merror[39m: [31m[39m
+[31mInvalid `database_1.prisma.skill.delete()` invocation in[39m
+[31mD:\my-portfolio\server\dist\controllers\skills.controllers.js:83:41[39m
+
+[31m  80 if (!existSkill) {[39m
+[31m  81     throw new ApiError_1.ApiError(404, "Skill not found");[39m
+[31m  82 }[39m
+[31m→ 83 yield database_1.prisma.skill.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+[07 Apr, 2025 - 21:21:32:2132] [31merror[39m: [31mSkill already exists[39m
+[07 Apr, 2025 - 21:22:31:2231] [31merror[39m: [31mSkill not found[39m
+[07 Apr, 2025 - 21:22:49:2249] [31merror[39m: [31mSkill not found[39m
+[07 Apr, 2025 - 21:31:14:3114] [31merror[39m: [31mSkill already exists[39m
+[07 Apr, 2025 - 21:31:29:3129] [31merror[39m: [31mSkill already exists[39m
+[07 Apr, 2025 - 21:36:43:3643] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 21:43:22:4322] [31merror[39m: [31mEducation not found[39m
+[07 Apr, 2025 - 21:47:17:4717] [31merror[39m: [31mEducation not found[39m
+[07 Apr, 2025 - 21:47:21:4721] [31merror[39m: [31mEducation not found[39m
+[07 Apr, 2025 - 21:49:30:4930] [31merror[39m: [31mEducation not found[39m
+[07 Apr, 2025 - 21:58:04:584] [31merror[39m: [31mProject not found[39m
+[07 Apr, 2025 - 21:58:17:5817] [31merror[39m: [31mProject not found[39m
+[07 Apr, 2025 - 22:12:34:1234] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 22:25:15:2515] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 22:28:44:2844] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:28:46:2846] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:30:13:3013] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:33:58:3358] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:34:16:3416] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:42:59:4259] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:43:02:432] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:43:11:4311] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:47:00:470] [31merror[39m: [31mNewsletter not found[39m
+[07 Apr, 2025 - 22:49:13:4913] [31merror[39m: [31mWork experience not found[39m
+[07 Apr, 2025 - 22:56:00:560] [31merror[39m: [31mNewsletter not found[39m
+[07 Apr, 2025 - 22:57:52:5752] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:58:08:588] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:58:20:5820] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:58:24:5824] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 22:58:36:5836] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[07 Apr, 2025 - 23:13:01:131] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 23:13:01:131] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 23:13:11:1311] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 23:13:18:1318] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 23:13:18:1318] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 23:22:59:2259] [31merror[39m: [31mUnauthorized[39m
+[07 Apr, 2025 - 23:23:01:231] [31merror[39m: [31mUnauthorized[39m
+[07 Apr, 2025 - 23:24:14:2414] [31merror[39m: [31mUnauthorized[39m
+[07 Apr, 2025 - 23:25:48:2548] [31merror[39m: [31mUnauthorized[39m
+[07 Apr, 2025 - 23:33:53:3353] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[07 Apr, 2025 - 23:34:46:3446] [31merror[39m: [31mUnauthorized[39m
+[07 Apr, 2025 - 23:37:32:3732] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[08 Apr, 2025 - 05:59:43:5943] [34minfo[39m: [34mServer running at http://localhost:8080/api/v1[39m
+[08 Apr, 2025 - 06:00:44:044] [31merror[39m: [31mInvalid username or password[39m
+[08 Apr, 2025 - 06:25:25:2525] [31merror[39m: [31mUnauthorized[39m
+[08 Apr, 2025 - 06:28:30:2830] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[08 Apr, 2025 - 06:28:54:2854] [31merror[39m: [31mTag not found[39m
+[08 Apr, 2025 - 07:19:06:196] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[08 Apr, 2025 - 07:19:06:196] [31merror[39m: [31mUnauthorized. You are not an admin. If you are then check your JWT token[39m
+[08 Apr, 2025 - 07:47:08:478] [31merror[39m: [31mSkill not found[39m
+[08 Apr, 2025 - 07:47:19:4719] [31merror[39m: [31mSkill not found[39m
+[08 Apr, 2025 - 07:47:38:4738] [31merror[39m: [31mEducation not found[39m
+[08 Apr, 2025 - 07:47:41:4741] [31merror[39m: [31mEducation not found[39m
+[08 Apr, 2025 - 07:48:04:484] [31merror[39m: [31mWork experience not found[39m
+[08 Apr, 2025 - 07:52:40:5240] [31merror[39m: [31mEducation not found[39m

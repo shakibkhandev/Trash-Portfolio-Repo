@@ -1,0 +1,106 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Portfolio {
+  id         String   @id @default(cuid())
+  email String @unique
+  x_url String
+  github_url String
+  linkedin_url String
+  facebook_url String
+  name String
+  about String
+  bio String @default("Nothing To Say")
+  image_url String
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+  education Education[]
+  skills       Skill[]
+  projects       Project[]
+  workExperience WorkExperience[]
+}
+
+
+model Education {
+  id         String   @id @default(cuid())
+  institution String
+  degree    String
+  startDate  String
+  endDate    String
+  status String
+  portfolioId String
+  portfolio   Portfolio @relation(fields: [portfolioId], references: [id], onDelete: Cascade)
+}
+
+model Skill {
+  id         String   @id @default(cuid())
+  label     String @unique
+  url String?
+  portfolioId String
+  portfolio   Portfolio @relation(fields: [portfolioId], references: [id], onDelete: Cascade)
+  projects Project[]
+}
+
+model Project {
+  id         String   @id @default(cuid())
+  name       String
+  description String
+  startDate  String
+  endDate    String
+  image_url String
+  web_url        String
+  skills Skill[]
+  portfolioId String
+  portfolio   Portfolio @relation(fields: [portfolioId], references: [id], onDelete: Cascade)
+}
+
+model WorkExperience {
+  id         String   @id @default(cuid())
+  companyName String
+  position    String
+  startDate  String
+  endDate    String
+  portfolioId String
+  portfolio   Portfolio @relation(fields: [portfolioId], references: [id], onDelete: Cascade)
+}
+
+
+
+model Blog{
+  id         String   @id @default(cuid())
+  slug String @unique
+  title       String
+  description String
+  image_url String
+  content     String
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+  readingTime String
+  isHidden Boolean @default(false)
+  tags Tag[]
+}
+
+model Tag {
+  id         String   @id @default(cuid())
+  label String @unique
+  blogs Blog[]
+}
+
+model Newsletter {
+  id         String   @id @default(cuid())
+  email String @unique
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+}

@@ -1,0 +1,242 @@
+{
+  "statusCode": 200,
+  "data": [
+    {
+      "id": "cm95udnpc0001s0d0bq7hfsv7",
+      "slug": "the-rise-of-intelligent-ai-agents-in-modern-technology-1743956007741",
+      "title": "The Rise of Intelligent AI Agents in Modern Technology",
+      "description": "Artificial Intelligence agents are transforming the way we interact with technology, offering unprecedented levels of automation and decision-making. From virtual assistants to complex problem-solving systems, AI agents are becoming integral to industries worldwide.",
+      "image_url": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>In recent years, AI agents have evolved from simple rule-based systems to sophisticated entities capable of learning, reasoning, and adapting to dynamic environments.</p>",
+      "createdAt": "2025-04-06T16:13:27.743Z",
+      "updatedAt": "2025-04-06T16:13:27.743Z",
+      "readingTime": "1 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "Technology"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0002s0d0bq7hfsv8",
+      "slug": "the-future-of-web-development-1743956007742",
+      "title": "The Future of Web Development: Trends to Watch",
+      "description": "Web development is evolving at an unprecedented pace. From serverless architectures to AI-powered development tools, the landscape is changing rapidly. This article explores the key trends shaping the future of web development.",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba63e2fbf?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>The web development landscape is constantly evolving, with new technologies and methodologies emerging regularly.</p>",
+      "createdAt": "2025-04-05T16:13:27.743Z",
+      "updatedAt": "2025-04-05T16:13:27.743Z",
+      "readingTime": "2 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "Technology"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Web Development"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0003s0d0bq7hfsv9",
+      "slug": "machine-learning-in-healthcare-1743956007743",
+      "title": "Machine Learning in Healthcare: Revolutionizing Patient Care",
+      "description": "Machine learning is transforming healthcare by enabling more accurate diagnoses, personalized treatment plans, and improved patient outcomes. This article explores the impact of ML in modern healthcare systems.",
+      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>The integration of machine learning in healthcare is revolutionizing how we approach patient care and medical research.</p>",
+      "createdAt": "2025-04-04T16:13:27.743Z",
+      "updatedAt": "2025-04-04T16:13:27.743Z",
+      "readingTime": "3 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "Healthcare"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0004s0d0bq7hfsv0",
+      "slug": "blockchain-technology-explained-1743956007744",
+      "title": "Blockchain Technology: Beyond Cryptocurrency",
+      "description": "Blockchain technology is revolutionizing industries beyond just cryptocurrency. From supply chain management to digital identity, this article explores the diverse applications of blockchain technology.",
+      "image_url": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>Blockchain technology has evolved far beyond its initial application in cryptocurrency.</p>",
+      "createdAt": "2025-04-03T16:13:27.743Z",
+      "updatedAt": "2025-04-03T16:13:27.743Z",
+      "readingTime": "4 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "Blockchain"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Technology"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0005s0d0bq7hfsv1",
+      "slug": "cybersecurity-best-practices-1743956007745",
+      "title": "Cybersecurity Best Practices for Modern Businesses",
+      "description": "In an increasingly digital world, cybersecurity has become a critical concern for businesses of all sizes. This article outlines essential cybersecurity practices to protect your business from modern threats.",
+      "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>Cybersecurity is no longer optional for modern businesses; it's a necessity.</p>",
+      "createdAt": "2025-04-02T16:13:27.743Z",
+      "updatedAt": "2025-04-02T16:13:27.743Z",
+      "readingTime": "5 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "Security"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Business"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0006s0d0bq7hfsv2",
+      "slug": "cloud-computing-trends-1743956007746",
+      "title": "Cloud Computing: Current Trends and Future Outlook",
+      "description": "Cloud computing continues to evolve, offering new opportunities and challenges for businesses. This article explores the latest trends in cloud computing and what to expect in the coming years.",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>The cloud computing landscape is constantly evolving, with new technologies and services emerging regularly.</p>",
+      "createdAt": "2025-04-01T16:13:27.743Z",
+      "updatedAt": "2025-04-01T16:13:27.743Z",
+      "readingTime": "6 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "Cloud"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Technology"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0007s0d0bq7hfsv3",
+      "slug": "data-science-career-path-1743956007747",
+      "title": "Building a Career in Data Science: A Comprehensive Guide",
+      "description": "Data science is one of the most in-demand fields today. This comprehensive guide explores the skills, tools, and career paths available in the world of data science.",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>Data science offers numerous career opportunities across various industries.</p>",
+      "createdAt": "2025-03-31T16:13:27.743Z",
+      "updatedAt": "2025-03-31T16:13:27.743Z",
+      "readingTime": "7 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "Data Science"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Career"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0008s0d0bq7hfsv4",
+      "slug": "iot-security-challenges-1743956007748",
+      "title": "IoT Security: Challenges and Solutions",
+      "description": "The Internet of Things (IoT) brings numerous benefits but also significant security challenges. This article examines the security risks in IoT and provides practical solutions for implementation.",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>IoT security is a critical concern in today's connected world.</p>",
+      "createdAt": "2025-03-30T16:13:27.743Z",
+      "updatedAt": "2025-03-30T16:13:27.743Z",
+      "readingTime": "8 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "IoT"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Security"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0009s0d0bq7hfsv5",
+      "slug": "devops-culture-1743956007749",
+      "title": "Building a Successful DevOps Culture",
+      "description": "DevOps is more than just tools and processes; it's a cultural shift in how organizations develop and deliver software. This article explores how to build and maintain a successful DevOps culture.",
+      "image_url": "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>DevOps culture is essential for modern software development.</p>",
+      "createdAt": "2025-03-29T16:13:27.743Z",
+      "updatedAt": "2025-03-29T16:13:27.743Z",
+      "readingTime": "9 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "DevOps"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Culture"
+        }
+      ]
+    },
+    {
+      "id": "cm95udnpc0010s0d0bq7hfsv6",
+      "slug": "quantum-computing-basics-1743956007750",
+      "title": "Quantum Computing: Understanding the Basics",
+      "description": "Quantum computing represents a revolutionary approach to computation. This article provides an introduction to quantum computing concepts and their potential applications.",
+      "image_url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "content": "<p>Quantum computing is a complex but fascinating field with enormous potential.</p>",
+      "createdAt": "2025-03-28T16:13:27.743Z",
+      "updatedAt": "2025-03-28T16:13:27.743Z",
+      "readingTime": "10 min",
+      "isHidden": false,
+      "tags": [
+        {
+          "id": "cm952m7xe0000s0sk3j3cnzu4",
+          "label": "Quantum"
+        },
+        {
+          "id": "cm952s6xc0000s0qssd9z7ue4",
+          "label": "Computing"
+        }
+      ]
+    }
+  ],
+  "message": "Blogs fetched successfully",
+  "success": true,
+  "pagination": {
+    "currentPage": 1,
+    "totalPages": 2,
+    "totalItems": 20,
+    "itemsPerPage": 10,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "links": {
+      "self": "http://localhost:8080/api/v1/admin/blogs/blog?limit=10&page=1",
+      "first": "http://localhost:8080/api/v1/admin/blogs/blog?limit=10&page=1",
+      "prev": null,
+      "next": "http://localhost:8080/api/v1/admin/blogs/blog?limit=10&page=2",
+      "last": "http://localhost:8080/api/v1/admin/blogs/blog?limit=10&page=2"
+    }
+  }
+}

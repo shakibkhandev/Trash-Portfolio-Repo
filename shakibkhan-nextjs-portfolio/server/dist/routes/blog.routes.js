@@ -1,0 +1,24 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.blogRoutes = void 0;
+const express_1 = __importDefault(require("express"));
+const verify_middlewares_1 = require("../middlewares/verify.middlewares");
+const blog_controllers_1 = require("../controllers/blog.controllers");
+exports.blogRoutes = express_1.default.Router();
+exports.blogRoutes.post("/tags", verify_middlewares_1.verifyJWT, blog_controllers_1.createTag);
+exports.blogRoutes.get("/tags", verify_middlewares_1.verifyJWT, blog_controllers_1.getTags);
+exports.blogRoutes.put("/tags/:id", verify_middlewares_1.verifyJWT, blog_controllers_1.updateTag);
+exports.blogRoutes.delete("/tags/:id", verify_middlewares_1.verifyJWT, blog_controllers_1.deleteTag);
+exports.blogRoutes.delete("/tags/delete/all", verify_middlewares_1.verifyJWT, blog_controllers_1.deleteAllTags);
+exports.blogRoutes.patch("/hide/:id", verify_middlewares_1.verifyJWT, blog_controllers_1.hideBlog);
+exports.blogRoutes.patch("/unhide/:id", verify_middlewares_1.verifyJWT, blog_controllers_1.unhideBlog);
+exports.blogRoutes.post("/", verify_middlewares_1.verifyJWT, blog_controllers_1.createBlog);
+exports.blogRoutes.get("/", verify_middlewares_1.verifyJWT, blog_controllers_1.getBlogs);
+exports.blogRoutes.get("/public", blog_controllers_1.publicBlogs);
+exports.blogRoutes.get("/:id", verify_middlewares_1.verifyJWT, blog_controllers_1.getBlogById);
+exports.blogRoutes.get("/slug/:slug", blog_controllers_1.getBlogBySlug);
+exports.blogRoutes.put("/:id", verify_middlewares_1.verifyJWT, blog_controllers_1.updateBlog);
+exports.blogRoutes.delete("/:id", verify_middlewares_1.verifyJWT, blog_controllers_1.deleteBlog);

@@ -1,0 +1,1 @@
+export const USER_TEMPORARY_TOKEN_EXPIRY = 2 * 60 * 1000; // 2 minutes
